@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">MorgenStern Global mark</title>
+  <desc id="desc">A star over a globe inside a thin circle.</desc>
+  <circle cx="48" cy="48" r="43" fill="none" stroke="currentColor" stroke-width="3"/>
+  <circle cx="48" cy="50" r="20" fill="none" stroke="currentColor" stroke-width="2" opacity="0.92"/>
+  <path d="M28 50h40M48 30v40" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" opacity="0.92"/>
+  <path d="M34 40c4.4 3.2 9.1 4.8 14 4.8S57.6 43.2 62 40M34 60c4.4-3.2 9.1-4.8 14-4.8S57.6 56.8 62 60" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" opacity="0.92"/>
+  <path d="M48 16.5l4.35 9.2 10.15 1.35-7.35 7.05 1.8 10.1L48 39.2l-8.95 5 1.8-10.1-7.35-7.05 10.15-1.35L48 16.5z" fill="#ff7714"/>
+</svg>
